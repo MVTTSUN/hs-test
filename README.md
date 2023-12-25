@@ -8,7 +8,7 @@
 
 ## Ссылка на дэплой проекта
 
-[Vercel]()
+[Vercel](https://hs-test-1.vercel.app)
 
 ## Запуск проекта
 
